@@ -1,0 +1,157 @@
+hyy my name ajay kumar i am a digital marketer and web developer i have 6 year experience of same field i am founder and ceo of my website "OzzohMedia" please write a seo friendly code for my website "Below is a detailed plan for creating a modern, dark-themed website for **Ozzoh Media**, a digital marketing and web development agency. The design will focus on sleek aesthetics, high-contrast colors, neon accents, and smooth animations while ensuring responsiveness and mobile-friendliness.
+
+---
+
+### **Website Structure**
+1. **Homepage**
+2. **About Us**
+3. **Services**
+4. **Portfolio/Case Studies**
+5. **Blog/Resources**
+6. **Contact Page**
+7. **Admin Panel**
+
+---
+
+### **Design & UI Elements**
+- **Color Palette**: 
+  - Background: Dark black (#0A0A0A) or dark blue (#0F1621)
+  - Accents: blue
+  - Text: Night white (#F0F0F0) for body,
+- **Typography**: 
+  - Headings: ("syne, Poppins", jost, or "Montserrat")
+  - Body:(e.g., "syne, Poppins", jost, or "Montserrat")
+- **Effects**: 
+  - Glassmorphism on cards and buttons (transparent background with blur)
+  - Smooth hover animations, parallax scrolling, and  glow effects
+  - Dynamic background animations (e.g., particle effects or gradient waves)
+
+---
+
+### **Homepage**
+#### **Hero Section**
+- **Tagline**: "Transforming Ideas into Digital Reality"
+- **CTA Button**: "Get Started" ( glow on hover)
+- **Dynamic Background**: 
+  - Particle animation or looping gradient waves
+  - Optional: Subtle video background with abstract tech visuals
+- **Subtext**: Brief description of Ozzoh Media's expertise.
+
+#### **Service Highlights**
+- **Layout**: 3-4 cards with icons and short descriptions.
+- **Hover Effects**:  border glow and scaling animation.
+- **Services**: Web Development, Digital Marketing, SEO, AI Marketing.
+
+#### **Testimonials Slider**
+- **Design**: Carousel with client photos, names, and feedback.
+- **Animation**: Smooth horizontal slide with pagination dots.
+
+---
+
+### **About Us**
+#### **Mission, Vision, and Values, why we are, quality, timeline, 24/7 service**
+- **Layout**: Split-screen design with text on one side and an abstract visual on the other.
+- **Animation**: Fade-in effect as the user scrolls.
+Adress :  Name : AJAY KUMAR, Email :info@ozzohmedia.com, Phone : +919315869313, +919999491146, WhatsApp number :+919315869313, Adress: 85 SD-II, Greater Noida West Gautam Buddha Nagar UP India
+
+
+#### **Team Member Profiles**
+- **Layout**: Grid of team members with photos, names, and roles.
+- **Hover Effect**: border and a brief bio overlay.
+Team Members : Ajay Farenziya : Founder & Ceo, Madhuri : Co Founder, Nisha : CFO,
+
+#### **Achievements and Certifications**
+- **Design**: Icons with numbers (e.g., "50+ Projects Completed").
+- **Animation**: Count-up effect on scroll.
+
+---
+
+### **Services**
+#### **Service Cards**
+- **Layout**: Interactive cards with icons, titles, and short descriptions.
+- **Hover Effect**:  glow and slight elevation.
+- **Services**: 
+  - Web Development
+  - Digital Marketing
+  - SEO
+  - Social Media Marketing
+  - AI Marketing
+  - PPC
+  - Email Marketing
+  - App Development
+
+#### **Detailed Service Pages**
+- **Layout**: Full-page description with visuals and CTA buttons.
+- **Animation**: Smooth transitions between sections.
+
+---
+
+### **Portfolio/Case Studies**
+#### **Project Grid/Carousel**
+- **Layout**: Masonry grid or horizontal carousel.
+- **Hover Effect**: overlay with project title and category.
+- **Case Studies**: 
+  - Client name, project details, challenges, solutions, and results.
+  - Visuals: Before/after sliders or interactive charts.
+
+---
+
+### **Blog/Resources**
+#### **Blog Layout**
+- **Categories**: SEO, Web Development, Digital Marketing, AI.
+- **Search Bar**: Sticky search bar with autocomplete.
+- **Posts**: Featured image, title, excerpt, and read time.
+- **Animation**: Fade-in effect on scroll.
+
+---
+
+### **Contact Page**
+#### **Contact Form**
+- **Fields**: Name, Email, Phone, Message.
+- **Design**: Glassmorphism effect with border.
+- **CTA Button**: "Send Message" ( glow on hover).
+
+#### **Google Maps Integration**
+- **Design**: Embedded map with a  border.
+
+#### **Support Options**
+- **WhatsApp**: Floating button with  glow.
+- **Live Chat**: Bottom-right corner with a chatbot interface.
+
+---
+
+### **Admin Panel**
+#### **Features**
+- **User Management**: Add, edit, or delete users.
+- **Blog Management**: Create, edit, or delete posts.
+- **Inquiries**: View and respond to contact form submissions.
+- **Service Orders**: Manage client service requests.
+
+#### **UI Design**
+- **Dashboard**: Minimalistic with dark theme and accents.
+- **Tables**: Glassmorphism effect with hover animations.
+
+---
+
+### **Tech Stack**
+- **Frontend**: easy and futuristic language 
+
+---
+
+### **Animations**
+- **Scroll Animations**: Fade-in, slide-in, and parallax effects.
+- **Hover Animations**: glow, scaling, and rotation.
+- **Background Animations**: Particle effects, gradient waves, or abstract shapes.
+
+---
+
+### **Responsive Design**
+- **Breakpoints**: Mobile (320px), Tablet (768px), Desktop (1024px+).
+- **Features**: 
+  - Collapsible hamburger menu for mobile
+  - Stacked cards and grids for smaller screens
+  - Optimized touch interactions
+
+---
+
+create a visually stunning, highly functional, and user-friendly website for Ozzoh Media, aligning with its brand identity and goals. Let me know if you'd like to dive deeper into any specific section!
